@@ -120,7 +120,7 @@
 
 <a href="https://github.com/FelipeCastro-js/">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeCastro-js&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCastro-js&show_icons=true&layout=compact&theme=dark&line_height=20" width="450" height="165"  alt="FelipeCastro-js"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCastro-js&show_icons=true&layout=compact&theme=dark&line_height=20" width="450"  alt="FelipeCastro-js"/>
 </a>
 
 </div>

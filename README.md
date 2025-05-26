@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Felipe Castro</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/FelipeCastro-js">
+  <a href="https://github.com/FelipeCastro-js" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+Coders!;Software+Engineering+Student;Self-taught+Developer;Passionate+about+learning+new+things+%F0%9F%8C%8D">
   </a>
 </p>
@@ -10,11 +10,10 @@
 
 ## 🧑‍💻 About Me
 
-
 - 🎓 I'm a self-taught **Full-Stack Developer** and a student of Software Engineering.  
 - 🎺 I enjoy playing the **trombone** in my free time.  
 - 🌱 Continuously learning and building to grow professionally.  
-- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/felipe-castro-907478182/)
+- 🔗 <a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">Connect with me on LinkedIn</a>
 
 ---
 
@@ -70,17 +69,22 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeCastro-js&show_icons=true&theme=radical" alt="Felipe's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeCastro-js&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeCastro-js&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCastro-js&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📫 Let’s Connect!
+## 🔗 Let's Connect..!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipe-castro-907478182/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:carloscastro1860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/FelipeCastro-js"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/FelipeCastro-js" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:felipe.castro.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>

@@ -10,7 +10,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🎓 I'm a self-taught **Full-Stack Developer** and a student of Software Engineering.  
 - 🎺 I enjoy playing the **trombone** in my free time.  

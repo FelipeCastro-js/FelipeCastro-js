@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/FelipeCastro-js" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+Coders!;Software+Engineering+Student;Self-taught+Developer;Passionate+about+learning+new+things+%F0%9F%8C%8D">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+World!;Software+Developer;Passionate+about+Clean+Code+%26+Scalable+Systems;Always+Learning+%F0%9F%8C%8D">
   </a>
 </p>
 
@@ -10,27 +10,29 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a self-taught **Full-Stack Developer** and a student of Software Engineering.  
-- 🎺 I enjoy playing the **trombone** in my free time.  
-- 🌱 Continuously learning and building to grow professionally.  
-- 🔗 <a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">Connect with me on LinkedIn</a>
+- 💻 I'm a **Software Developer** focused on building scalable, maintainable web applications.
+- 🧑‍🎓 Software Engineering student.
+- 📚 Passionate about clean code, software architecture, and backend systems.
+- 🎺 I enjoy playing the trombone in my free time.
+- 🔗 <a href="https://felipe-castro.vercel.app/" target="_blank">Visit My Portfolio</a>
+- 🔗 <a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">Connect on LinkedIn</a>
+
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills (Aligned with Portfolio)
 
 ### 👨‍💻 Languages
 ![C#](https://img.shields.io/badge/C%23-%2395124C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -41,13 +43,14 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🧰 Softwares and Tools
+## 🛠️ Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -55,14 +58,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
 </p>
-
----
-
-## ✨ Extras
-
-- 💬 I love discussing new ideas and collaborating on creative tech solutions.
-- 🤝 Open to contributing to Open Source projects.
-- 📚 Always learning about clean code, system design, and modern stacks.
 
 ---
 
@@ -75,7 +70,7 @@
 
 ---
 
-## 🔗 Let's Connect..!
+## 🔗 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">

@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Skills (Aligned with Portfolio)
+## 🛠️ Skills
 
 ### 👨‍💻 Languages
 ![C#](https://img.shields.io/badge/C%23-%2395124C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

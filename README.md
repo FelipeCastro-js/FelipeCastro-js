@@ -1,85 +1,127 @@
-<h1 align="center"><b>Hi, I'm Felipe Castro</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/FelipeCastro-js" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+World!;Software+Developer;Passionate+about+Clean+Code+%26+Scalable+Systems;Always+Learning+%F0%9F%8C%8D">
-  </a>
-</p>
+# Felipe Castro
+### Software Engineer • Full Stack • Cloud • Data • AI
 
----
+Building scalable software, cloud solutions, and intelligent applications focused on automation, clean architecture, and real business impact.
 
-## 🧑‍💻 About Me
+<br>
 
-- 💻 I'm a **Software Developer** focused on building scalable, maintainable web applications.
-- 🧑‍🎓 Software Engineering student.
-- 📚 Passionate about clean code, software architecture, and backend systems.
-- 🎺 I enjoy playing the trombone in my free time.
-- 🔗 <a href="https://felipe-castro.vercel.app/" target="_blank">Visit My Portfolio</a>
-- 🔗 <a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">Connect on LinkedIn</a>
+<a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://felipe-castro.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:carloscastro1860@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
+</div>
 
----
+<br>
 
-## 🛠️ Skills
-
-### 👨‍💻 Languages
-![C#](https://img.shields.io/badge/C%23-%2395124C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-
-### 🧩 Back-End
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 👋 About
+I'm a Software Engineer passionate about building scalable applications, modern backend architectures, and intelligent automation solutions. My experience spans **Full Stack Development**, **Cloud**, **Data Engineering**, and **Artificial Intelligence**, delivering software that solves real business problems.
 
 ---
 
-## 🛠️ Tools
+## 💼 What I Do
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙ Backend & Cloud</h3>
+      <ul>
+        <li>REST APIs & Microservices</li>
+        <li>Event-Driven & Clean Architecture</li>
+        <li>AWS, Docker, CI/CD & Serverless</li>
+        <li>Secure Integrations & TDD</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Frontend & AI</h3>
+      <ul>
+        <li>Modern Web & Mobile Apps</li>
+        <li>Executive Dashboards & Admin Panels</li>
+        <li>Computer Vision & YOLO</li>
+        <li>Business Process Automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeCastro-js&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCastro-js&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+**Frontend & Mobile:** <br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,angular,androidstudio" height="40" />
+
+**Backend & Database:** <br>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,java,spring,fastapi,postgres,mysql,firebase" height="40" />
+
+**Cloud & DevOps:** <br>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" height="40" />
 
 ---
 
-## 🔗 Let's Connect!
+## 🚀 Featured Projects & Business Impact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipe-castro-907478182/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/FelipeCastro-js" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:felipe.castro.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏠 Habi (PropTech)</b><br>
+      <i>FastAPI • NestJS • SQL • Mercado Pago</i><br>
+      Developed backend services, payment integrations, and financial tools supporting real estate operations across Latin America. Focus on TDD and secure architectures.
+    </td>
+    <td width="50%" valign="top">
+      <b>🏍 Digital Transformation (Honda)</b><br>
+      <i>React • NestJS • Siigo ERP</i><br>
+      Designed and implemented digital solutions to automate business operations, ERP integrations, dashboards, and customer service workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📈 ApexTrader</b><br>
+      <i>React • TypeScript • NestJS • WebSockets</i><br>
+      Real-time cryptocurrency analysis platform featuring live dashboards, candlestick charts, market analytics, and token discovery.
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI Food Detection</b><br>
+      <i>Python • YOLOv11 • Streamlit • Gradio</i><br>
+      Computer Vision system capable of detecting food and estimating nutritional values using Machine Learning.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌱 Current Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Academic & Learning</h3>
+      <ul>
+        <li><b>B.S. in Systems Engineering</b> (Expected Aug 2026)</li>
+        <li><b>MSc in Cybersecurity & Privacy</b> (Starting Sept 2026, UOC)</li>
+        <li>Exploring Cloud Architecture & Distributed Systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Open To</h3>
+      <ul>
+        <li>Remote Opportunities & Freelance</li>
+        <li>Cloud Solutions & AI Applications</li>
+        <li>Technical Consulting</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</div>
